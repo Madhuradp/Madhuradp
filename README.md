@@ -33,7 +33,7 @@ I love turning ideas into working products 🚀
 ## 💻 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,nodejs,mongodb,firebase,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,python,numpy,pandas,sklearn,java,nodejs,mongodb,cpp,git,github" />
 </p>
 
 ---
