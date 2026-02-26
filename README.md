@@ -25,7 +25,7 @@ I love turning ideas into working products 🚀
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/madhurapatil/]"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/madhurapatil/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 ---
